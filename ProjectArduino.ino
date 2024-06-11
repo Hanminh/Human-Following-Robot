@@ -28,7 +28,7 @@ bool BocDauHayTest = true;
 
 
 // Maximum and minimum motor speeds
-#define MAX_SPEED 150
+#define MAX_SPEED 200
 #define MIN_SPEED 0
 
 int dis[3];
