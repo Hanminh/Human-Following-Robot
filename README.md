@@ -46,8 +46,7 @@
 | Model điều khiển động cơ L298N       |    1      | 200,000đ  |
 | Cảm biến siêu âm (Ultrasonic Sensor)       |    1      | 150,000đ  |
 | Động cơ DC       |    2      |   |
-| Bánh xe          |    2      | 70,000đ  |
-| Khung robot      |    1      |   |
+| Bánh xe + Khung Robot          |    2      | 70,000đ  |
 | Board mở rộng (Breadboard)       |    1      | 20,000đ  |
 | Dây nối và đầu nối       |    NaN      |   |
 | Nút bấm       |    1      | 20,000đ  |
